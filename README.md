@@ -43,7 +43,7 @@ pip (Python package installer)
 Installation
 Clone the Repository:
 
-git clone https://github.com/Enkif/prescriptive-dga-detector.git # Replace with your actual repo URL
+git clone https://github.com/###/prescriptive-dga-detector.git # Replace with your actual repo URL
 cd prescriptive-dga-detector
 
 Install Dependencies:
