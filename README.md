@@ -96,5 +96,4 @@ TESTING.md: Contains detailed manual verification steps for the pipeline.
 Automation
 .github/workflows/lint.yml: Includes a GitHub Actions workflow for static code analysis (linting) using Flake8. This ensures code quality and consistency.
 
-Author
-[Your Name/GitHub Username - e.g., Enkif]
+
